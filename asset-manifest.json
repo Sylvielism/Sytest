@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sytest/static/css/main.081ba94c.css",
+    "main.js": "/Sytest/static/js/main.9ddff95a.js",
+    "static/media/week010 adv nan FIXED９５.png": "/Sytest/static/media/week010 adv nan FIXED９５.a063dce348a5929971b8.png",
+    "static/media/Illustrationvs3.png": "/Sytest/static/media/Illustrationvs3.f9b93d29a953b3db1f9c.png",
+    "index.html": "/Sytest/index.html",
+    "main.081ba94c.css.map": "/Sytest/static/css/main.081ba94c.css.map",
+    "main.9ddff95a.js.map": "/Sytest/static/js/main.9ddff95a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.081ba94c.css",
+    "static/js/main.9ddff95a.js"
+  ]
+}
